@@ -1,4 +1,5 @@
 # g4f-api
+[![Static Badge](https://img.shields.io/badge/Try%20with%20PWD-blue?logo=docker&labelColor=white)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/marat2509/g4f-api/main/docker-compose.yml)
 
 Welcome to the g4f-api project. This is a containerized API service that can be deployed with Docker and managed with Docker Compose.
 
